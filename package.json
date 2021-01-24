@@ -4,7 +4,8 @@
   "description": "socket.io",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "test": "dev",
+	"start": "node index.js"
   },
   "author": "quydv",
   "license": "ISC",
